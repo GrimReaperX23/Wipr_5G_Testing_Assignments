@@ -1,0 +1,8 @@
+C:\Wipro_Training_Assignments\Reaper_Login
+101 Shoe 3000
+102 Slippers 1500
+103 Crocs 4000
+104 Bottle 400
+105 Mouse 499
+106 Register 100
+107 Keyboard 1400
